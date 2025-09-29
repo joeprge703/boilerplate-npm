@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Furina",
 	"description": "franzj Presentino",
+	"keywords": ["Furina", "FranzJ", "Osetia UNC"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
