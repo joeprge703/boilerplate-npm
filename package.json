@@ -3,6 +3,7 @@
 	"author": "Furina",
 	"description": "franzj Presentino",
 	"license": "MIT",
+	"version": "1.2.0",
 	"keywords": ["Furina", "FranzJ", "Osetia UNC", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
